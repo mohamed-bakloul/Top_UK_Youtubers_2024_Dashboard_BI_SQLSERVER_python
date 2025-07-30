@@ -1,8 +1,7 @@
 # Top_UK_Youtubers_2024
-# Data Portfolio: Excel to Power BI 
 
 
-![excel-to-powerbi-animated-diagram](assets/images/kaggle_to_powerbi.gif)
+<img width="1165" height="661" alt="Capture d’écran 2025-07-30 220708" src="https://github.com/user-attachments/assets/0c2c7f5a-6327-4eff-a088-2ca738f07d4a" />
 
 
 
@@ -117,10 +116,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 3. Scorecards
 4. Horizontal bar chart 
 
-
-
-
-![Dashboard-Mockup](assets/images/dashboard_mockup.png)
+<img width="672" height="400" alt="dashboard_mockup" src="https://github.com/user-attachments/assets/4ee06557-6ae0-47ec-92de-c78b55bde79b" />
 
 
 ## Tools 
@@ -153,8 +149,6 @@ Some of the data visuals that may be appropriate in answering our questions incl
 
 ## Data exploration notes
 
-This is the stage where you have a scan of what's in the data, errors, inconcsistencies, bugs, weird and corrupted characters etc  
-
 
 - What are your initial observations with this dataset? What's caught your attention so far? 
 
@@ -162,10 +156,6 @@ This is the stage where you have a scan of what's in the data, errors, inconcsis
 2. The first column contains the channel ID with what appears to be channel IDS, which are separated by a @ symbol - we need to extract the channel names from this.
 3. Some of the cells and header names are in a different language - we need to confirm if these columns are needed, and if so, we need to address them.
 4. We have more data than we need, so some of these columns would need to be removed
-
-
-
-
 
 ## Data cleaning 
 - What do we expect the clean data to look like? (What should it contain? What contraints should we apply to it?)
